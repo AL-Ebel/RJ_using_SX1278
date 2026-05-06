@@ -1,0 +1,8 @@
+../Core/Src/slave_battery.c:16:13:Select_Slave_CurrentChannel	1
+../Core/Src/slave_battery.c:25:13:Select_Slave_VoltageChannel	1
+../Core/Src/slave_battery.c:37:6:Slave_Battery_Init	1
+../Core/Src/slave_battery.c:47:7:Slave_Battery_ReadVoltage	6
+../Core/Src/slave_battery.c:94:9:Slave_Battery_CalcPercent	3
+../Core/Src/slave_battery.c:109:9:Slave_Battery_GetPercent	1
+../Core/Src/slave_battery.c:120:7:Slave_ACS712_ReadCurrentAmps	4
+../Core/Src/slave_battery.c:148:6:Slave_ACS712_Calibrate	4
